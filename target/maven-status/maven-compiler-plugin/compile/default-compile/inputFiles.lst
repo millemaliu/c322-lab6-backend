@@ -1,0 +1,16 @@
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/DucksServiceApplication.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/Quack.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/Redhead.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/QuackSounds.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/DuckData.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/QuackBehavior.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/controllers/HomeController.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/FlyWithWings.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/DecoyDuck.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/Mallard.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/FlyBehavior.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/Duck.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/DuckType.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/repository/DucksRepository.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/model/RubberDuck.java
+/home/mallory/Documents/sophmore year/322/c322-lab6-backend/src/main/java/edu/iu/habahram/ducksservice/controllers/DuckController.java
